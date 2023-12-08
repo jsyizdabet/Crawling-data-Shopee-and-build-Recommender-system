@@ -4,8 +4,6 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 import pandas as pd
 
-# Tải ChromeDriver về, copy đường dẫn file chromedriver.exe thay đè vào đường dẫn bên dưới
-# VD: chrome_driver_path = r'C:\JsyNgaoDa\Desktop\chromedriver-win64\chromedriver-win64\chromedriver.exe'
 chrome_driver_path = r'"D:\Study/UEL/HK5/PHÂN TÍCH DỮ LIỆU WEB/crawlData/crawlData/chromedriver-win64/chromedriver-win64/chromedriver.exe"'
 
 fileNameBackupCsv = 'data_backup'
@@ -13,7 +11,6 @@ fileNameBackupJson = 'data_backup'
 service = Service(chrome_driver_path)
 driver = webdriver.Chrome(service=service)
 
-# API xài 2 3 lần sẽ bị shoppe ban, cẩn thận
 # api = 'https://shopee.vn/api/v4/recommend/recommend?bundle=category_landing_page&cat_level=1&catid=11035639&limit=5&offset=0'
 api = 'https://shopee.vn/api/v4/recommend/recommend?bundle=category_landing_page&cat_level=1&catid=11035639&limit=500000&offset=0'
 # api = 'https://viblo.asia/api/suggestion/service?type=viblo-ctf'
