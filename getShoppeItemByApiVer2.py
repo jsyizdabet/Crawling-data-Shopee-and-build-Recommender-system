@@ -5,8 +5,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 import pandas as pd
 import time 
-# Tải ChromeDriver về, copy đường dẫn file chromedriver.exe thay đè vào đường dẫn bên dưới
-# VD: chrome_driver_path = r'C:\JsyNgaoDa\Desktop\chromedriver-win64\chromedriver-win64\chromedriver.exe'
+
 chrome_driver_path = r'C:\Users\Admin\Desktop\crawlData\chromedriver-win64\chromedriver-win64\chromedriver.exe'
 
 fileNameBackupCsv = 'data_backup'
