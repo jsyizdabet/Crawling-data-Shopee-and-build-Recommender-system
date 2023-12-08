@@ -1,0 +1,192 @@
+{
+    "error": 0,
+    "error_msg": null,
+    "data": {
+        "ratings": [
+            {
+                "orderid": 136869925206561,
+                "itemid": 21750123134,
+                "cmtid": 11449158004,
+                "ctime": 1683556929,
+                "rating": 1, 
+                "userid": 517220090,
+                "shopid": 867569321,
+                "comment": "Chất liệu:có\nMàu sắc:đẹp\nĐúng với mô tả:có\n\ne mày đi làm r cho biết e ừ Ùi rưỡi một mk có thể là có tiền thì a bảo a a long bảo vệ môi đi chơi với em là a đi ngủ đây mai tuioo",
+                "rating_star": 5,
+                "status": 2,
+                "mtime": 1700808804,
+                "editable": 0,
+                "opt": 2,
+                "filter": 7,
+                "mentioned": [],
+                "is_hidden": false,
+                "can_follow_up": null,
+                "follow_up": null,
+                "author_username": "huyquach1903",
+                "author_portrait": "b45d92dcd1cb1ce3250a01816c470dfa",
+                "author_shopid": 517200511,
+                "anonymous": false,
+                "images": [
+                    "vn-11134103-7qukw-lgjjo4xzew6i2c",
+                    "vn-11134103-7qukw-lgjjo4xyzfxmfe",
+                    "vn-11134103-7qukw-lgjjo4y0p8x625",
+                    "vn-11134103-7qukw-lgjjo4y09soa61",
+                    "vn-11134103-7qukw-lgjjo4xzucfed6"
+                ],
+                "videos": [
+                    {
+                        "id": "vn-11110103-6jrnk-lgjjsc45q1yi4e",
+                        "cover": "https://down-aka-sg.img.susercontent.com/vn-11110103-23050-n7svgns3ttqv0b",
+                        "url": "https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16000461683556917.mp4",
+                        "duration": 16700,
+                        "upload_time": null,
+                        "mms_ext": "{\"vid\":\"vn-11110103-6jrnk-lgjjsc45q1yi4e\",\"biz\":103,\"duration\":16700,\"create_time\":1683556907,\"serviceID\":6,\"cover\":\"https://down-aka-sg.img.susercontent.com/vn-11110103-23050-n7svgns3ttqv0b\",\"cover_list\":null,\"formats\":[{\"format\":1600046,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16000461683556917.mp4\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16000461683556917.mp4\",\"width\":480,\"height\":854,\"bitrate\":475539,\"size\":1206349,\"fps\":25.05995,\"duration\":16704,\"update_time\":1683556922},{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.default.mp4\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":364692,\"size\":1040043,\"fps\":25.05995,\"duration\":16704,\"update_time\":1699347963},{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16000051683556908.mp4\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16000051683556908.mp4\",\"width\":540,\"height\":960,\"bitrate\":590153,\"size\":1446493,\"fps\":25.05995,\"duration\":16695,\"update_time\":1683556916}],\"default_format\":{\"format\":600001,\"defn\":\"ORI\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/c3/98934353/103/A3oyOWBIAOzhPu8fEYMJACY.mp4\",\"width\":540,\"height\":960,\"bitrate\":957928,\"size\":2286441,\"fps\":29.88072,\"duration\":16700,\"update_time\":1683556908},\"extend_formats\":{\"H265\":[{\"format\":1600304,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16003041683556917.mp4\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16003041683556917.mp4\",\"width\":480,\"height\":854,\"bitrate\":326402,\"size\":898901,\"fps\":25.05995,\"duration\":16680,\"update_time\":1683556930},{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16003071699347957.mp4\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16003071699347957.mp4\",\"width\":540,\"height\":960,\"bitrate\":440308,\"size\":1201742,\"fps\":25.05995,\"duration\":16695,\"update_time\":1699347976},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16003081699347937.mp4\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16003081699347937.mp4\",\"width\":540,\"height\":960,\"bitrate\":443819,\"size\":1209063,\"fps\":25.05995,\"duration\":16695,\"update_time\":1699347956}]},\"ab_test\":\"\"}",
+                        "cover_image_id": "sg-11134206-7qvdc-lgnorm3hh8gc64",
+                        "highlight": {
+                            "id": "vn-11110103-6jrnk-lgjjsc45q1yi4e",
+                            "cover": "https://down-aka-sg.img.susercontent.com/vn-11110103-23050-n7svgns3ttqv0b",
+                            "url": "https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16000461683556917.mp4",
+                            "duration": 16700,
+                            "upload_time": null,
+                            "mms_ext": "{\"vid\":\"vn-11110103-6jrnk-lgjjsc45q1yi4e\",\"biz\":103,\"duration\":16700,\"create_time\":1683556907,\"serviceID\":6,\"cover\":\"https://down-aka-sg.img.susercontent.com/vn-11110103-23050-n7svgns3ttqv0b\",\"cover_list\":null,\"formats\":[{\"format\":1600046,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16000461683556917.mp4\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16000461683556917.mp4\",\"width\":480,\"height\":854,\"bitrate\":475539,\"size\":1206349,\"fps\":25.05995,\"duration\":16704,\"update_time\":1683556922},{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.default.mp4\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":364692,\"size\":1040043,\"fps\":25.05995,\"duration\":16704,\"update_time\":1699347963},{\"format\":1600005,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16000051683556908.mp4\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16000051683556908.mp4\",\"width\":540,\"height\":960,\"bitrate\":590153,\"size\":1446493,\"fps\":25.05995,\"duration\":16695,\"update_time\":1683556916}],\"default_format\":{\"format\":600001,\"defn\":\"ORI\",\"profile\":\"MP4\",\"path\":\"\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/c3/98934353/103/A3oyOWBIAOzhPu8fEYMJACY.mp4\",\"width\":540,\"height\":960,\"bitrate\":957928,\"size\":2286441,\"fps\":29.88072,\"duration\":16700,\"update_time\":1683556908},\"extend_formats\":{\"H265\":[{\"format\":1600304,\"defn\":\"V480P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16003041683556917.mp4\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16003041683556917.mp4\",\"width\":480,\"height\":854,\"bitrate\":326402,\"size\":898901,\"fps\":25.05995,\"duration\":16680,\"update_time\":1683556930},{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16003071699347957.mp4\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16003071699347957.mp4\",\"width\":540,\"height\":960,\"bitrate\":440308,\"size\":1201742,\"fps\":25.05995,\"duration\":16695,\"update_time\":1699347976},{\"format\":1600308,\"defn\":\"V640P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16003081699347937.mp4\",\"url\":\"https://down-cvs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6jrnk-lgjjsc45q1yi4e.16003081699347937.mp4\",\"width\":540,\"height\":960,\"bitrate\":443819,\"size\":1209063,\"fps\":25.05995,\"duration\":16695,\"update_time\":1699347956}]},\"ab_test\":\"\"}",
+                            "cover_image_id": "sg-11134206-7qvdc-lgnorm3hh8gc64",
+                            "highlight": null
+                        }
+                    }
+                ],
+                "product_items": [
+                    {
+                        "itemid": 21750123134,
+                        "shopid": 867569321,
+                        "name": "Áo ngực nữ cotton không gọng nâng ngực, áo lót nữ mềm mại thoáng mát tôn vòng 1 gợi cảm mã ANM-01",
+                        "image": "vn-11134201-23030-px9e3yii4cova4",
+                        "is_snapshot": 1,
+                        "snapshotid": 26026322232,
+                        "modelid": 193146326799,
+                        "model_name": "01. TRẮNG,36/80 (V1: 79-84CM)",
+                        "options": [
+                            "01. TRẮNG",
+                            "36/80 (V1: 79-84CM)"
+                        ]
+                    }
+                ],
+                "delete_reason": null,
+                "delete_operator": null,
+                "ItemRatingReply": null,
+                "tags": null,
+                "editable_date": null,
+                "show_reply": false,
+                "like_count": 56,
+                "liked": false,
+                "sync_to_social": false,
+                "detailed_rating": {
+                    "product_quality": 5,
+                    "seller_service": 5,
+                    "delivery_service": 5,
+                    "driver_service": null
+                },
+                "exclude_scoring_due_low_logistic": false,
+                "loyalty_info": null,
+                "template_tags": [
+                    "Chất liệu",
+                    "Màu sắc",
+                    "Đúng với mô tả"
+                ],
+                "has_template_tag": true,
+                "sync_to_social_toggle": null,
+                "sip_info": {
+                    "is_oversea": false,
+                    "origin_region": "vn",
+                    "hide_translate_tag": null
+                },
+                "is_repeated_purchase": false,
+                "display_variation_filter": true,
+                "overall_fit": 0,
+                "is_normal_item": true,
+                "viewed": null,
+                "show_view": null,
+                "sync_to_social_detail": null,
+                "profile": null,
+                "size_info_tags": null,
+                "size_info_abt": "",
+                "image_data": [
+                    {
+                        "image_id": "vn-11134103-7qukw-lgjjo4xzew6i2c",
+                        "cover_image_id": "vn-11134103-7qukw-lgjjo4xzew6i2c"
+                    },
+                    {
+                        "image_id": "vn-11134103-7qukw-lgjjo4xyzfxmfe",
+                        "cover_image_id": "vn-11134103-7qukw-lgjjo4xyzfxmfe"
+                    },
+                    {
+                        "image_id": "vn-11134103-7qukw-lgjjo4y0p8x625",
+                        "cover_image_id": "vn-11134103-7qukw-lgjjo4y0p8x625"
+                    },
+                    {
+                        "image_id": "vn-11134103-7qukw-lgjjo4y09soa61",
+                        "cover_image_id": "vn-11134103-7qukw-lgjjo4y09soa61"
+                    },
+                    {
+                        "image_id": "vn-11134103-7qukw-lgjjo4xzucfed6",
+                        "cover_image_id": "vn-11134103-7qukw-lgjjo4xzucfed6"
+                    }
+                ],
+                "key_media": {
+                    "key_media_code": 0,
+                    "key_media_id": ""
+                },
+                "is_super_review": false,
+                "super_reviewer_tag": [],
+                "is_newly_created": null,
+                "template_hints": null,
+                "template_tags_hints": null,
+                "region": "VN",
+                "original_item_info": {
+                    "itemid": 21750123134,
+                    "shopid": 867569321,
+                    "name": "Áo ngực nữ cotton không gọng nâng ngực, áo lót nữ mềm mại thoáng mát tôn vòng 1 gợi cảm mã ANM-01",
+                    "image": "vn-11134201-23030-px9e3yii4cova4"
+                },
+                "template_abt": null,
+                "is_repeat_edited": null,
+                "show_super_review_tag": false,
+                "super_review_status": 0,
+                "item_cart_info": null
+            }
+        ],
+        "item_rating_summary": {
+            "rating_total": 41963,
+            "rating_count": [
+                270,
+                357,
+                883,
+                2568,
+                37885
+            ],
+            "rcount_with_context": 23230,
+            "rcount_with_image": 20241,
+            "rcount_with_media": 20389,
+            "rcount_local_review": 41963,
+            "rcount_repeat_purchase": 0,
+            "rcount_overall_fit_small": 2100,
+            "rcount_overall_fit_fit": 11443,
+            "rcount_overall_fit_large": 183,
+            "rcount_oversea_review": 0,
+            "rcount_folded": 0
+        },
+        "is_sip_item": true,
+        "rcmd_algo": "BUNDLE:comment_search,RECALLER:comment_search_media_quality_v7_without_media_hidden,QUEUE:comment_search_media_quality_v7_without_media_hidden,NEWABTEST:69138,QUEUES:comment_search_media_quality_v7_without_media_hidden",
+        "downgrade_switch": false,
+        "has_more": true,
+        "show_local_review": false,
+        "browsing_ui": "",
+        "enable_buyer_gallery_media": true,
+        "user_latest_rating": null,
+        "size_info_abt": "",
+        "top_ratings": [],
+        "resize_image_abt": true,
+        "purchase_bar_abt": "bucket_a",
+        "tag_filters": [],
+        "signature": ""
+    }
+}

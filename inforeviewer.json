@@ -1,0 +1,113 @@
+{
+    "error": 0,
+    "error_msg": "",
+    "data": {
+        "shopid": 517200511,
+        "userid": 517220090,
+        "name": "huyquach1903",
+        "follower_count": 5,
+        "show_official_shop_label": false,
+        "is_preferred_plus_seller": false,
+        "is_shopee_verified": false,
+        "chat_disabled": false,
+        "rating_star": 0,
+        "has_decoration": false,
+        "account": {
+            "username": "huyquach1903",
+            "following_count": 83,
+            "portrait": "b45d92dcd1cb1ce3250a01816c470dfa",
+            "is_seller": false,
+            "phone_verified": true,
+            "email_verified": false,
+            "fbid": "",
+            "total_avg_star": 5,
+            "feed_account_info": {
+                "can_post_feed": true
+            },
+            "status": 1
+        },
+        "last_active_time": 1656077693,
+        "vacation": false,
+        "is_blocking_owner": false,
+        "followed": false,
+        "ab_test_info": {
+            "header_tabs_layout": "control",
+            "deep_discount_item_card": "default",
+            "item_card": "control",
+            "feeds_live_landing": "treatment",
+            "image_category": "new_image_cat",
+            "remove_item_count_on_category_tab": "default",
+            "default_component_improvement": "top_products",
+            "deep_discount_enhancement": "default",
+            "new_default_scp": "treatment_2",
+            "default_landing": "control",
+            "two_tier_category": "default",
+            "two_tier_category_for_layoutc": "default",
+            "live_stream_auto_play": "treatment",
+            "dd_item_card_2": "control",
+            "tier_shop_category": "treatment_new_layout",
+            "product_one_per_row": "control",
+            "fashion_shop_improvement": "control",
+            "shop_rfy_entrypoint": "treatment",
+            "voucher_popup_non_buyers": "control",
+            "category_ui_improvement_1": "new_category_ui",
+            "autoplay_highlight_video": "default",
+            "ads_shop_improvement": "control",
+            "non_deco_shop_homepage_personalization": "treatment_1",
+            "brand_day_overlap": "control",
+            "truncate_shop_item_card": "control",
+            "popup_new_design": "control",
+            "shop_entry_landing_redirection": "control_1",
+            "shop_live_stream_floating": "control_1"
+        },
+        "item_count": 0,
+        "response_rate": 57,
+        "show_video_entry": false,
+        "video_entry_info": "",
+        "campaign_hot_deal_discount_min": 10,
+        "show_deco_entry": false,
+        "shop_rating": {
+            "rating_normal": 0,
+            "rating_bad": 0,
+            "rating_good": 0
+        },
+        "buyer_rating": {
+            "rating_count": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                3
+            ],
+            "rating_star": 5
+        },
+        "seller_metrics": {
+            "cancellation_visibility": 0,
+            "cancellation_warning": 10
+        },
+        "ctime": 1629533935,
+        "show_tab": {
+            "new_arrival_tab": {
+                "show_new_arrival_items": false,
+                "new_arrival_items_start_ts": 1698249600
+            },
+            "show_live_tab": false,
+            "membership_tab": {
+                "show_membership_tab": false,
+                "has_join_membership": false
+            },
+            "show_flash_sale_tab": false,
+            "show_campaign_tab": false
+        },
+        "campaign_id": 0,
+        "toggles": {
+            "disable_chat_performance": false
+        },
+        "shop_tab_meta": {
+            "shop_is_non_deco": true
+        },
+        "block_cb_user": false,
+        "video_rn_jump_url": ""
+    }
+}
